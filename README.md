@@ -1,5 +1,5 @@
 -👋 Hi, I’m @murmullo-s
-- 👀 I’m interested in database management, Automation, Statistics
+-👀 I’m interested in database management,Automation,Statistics
 -🌱 I’m currently learning database management
 
 <!---
